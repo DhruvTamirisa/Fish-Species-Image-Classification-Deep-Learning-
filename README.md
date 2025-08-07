@@ -110,9 +110,9 @@ This project uses a dataset of fish images categorized into multiple species.
 
 \* \*\*Required Structure\*\*:
 
-For the code rename the Dataset.zip file into Fish.zip(don't unzip the file,since we will do that in ipynb file itself)    
+For the code rename the Dataset.zip file into fish.zip(don't unzip the file,since we will do that in ipynb file itself)    
 
-(for your clarity u casn try this step to double check you have downloaded data correctly or not)After unzipping the file, you must have a primary data folder that contains three subdirectories: `train`, `val`, and `test`. Each of these subdirectories must contain folders named after the fish species, with the corresponding images inside.
+(for your clarity u can try this step to double check you have downloaded data correctly or not)After unzipping the file, you must have a primary data folder that contains three subdirectories: `train`, `val`, and `test`. Each of these subdirectories must contain folders named after the fish species, with the corresponding images inside.
 
 
 
@@ -447,5 +447,6 @@ Once the setup is complete, run the following command in your terminal:
 
 
 python -m streamlit run fishapp.py
+
 
 
