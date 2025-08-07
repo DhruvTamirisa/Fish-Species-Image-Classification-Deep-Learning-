@@ -16,7 +16,7 @@ This repository contains the complete code and documentation for a deep learning
 
 \* \[Problem Statement](#problem-statement)
 
-\* \[Dataset](#dataset)
+\* \[Dataset](#dataset-rename it to fish.zip)
 
 \* \[Project Workflow](#-project-workflow)
 
@@ -24,7 +24,7 @@ This repository contains the complete code and documentation for a deep learning
 
 \* \[Model Details](#-model-details)
 
-\* \[Jupyter Notebook Code (`fish4.ipynb`)](#-jupyter-notebook-code-fish4ipynb)
+\* \[Jupyter Notebook Code (`fish4.ipynb`)](#-jupyter-notebook-code-FishImageClassificationipynb)
 
 \* \[Streamlit App Code (`fishapp.py`)](#-streamlit-app-code-fishappy)
 
@@ -447,6 +447,7 @@ Once the setup is complete, run the following command in your terminal:
 
 
 python -m streamlit run fishapp.py
+
 
 
 
