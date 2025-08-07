@@ -186,7 +186,7 @@ For the code rename the Dataset.zip file into Fish.zip(don't unzip the file,sinc
 
 1\.  \*\*Open Google Colab\*\*: Go to \[colab.research.google.com](https://colab.research.google.com).
 
-2\.  \*\*Upload Notebook\*\*: Upload the `fish4.ipynb` file.
+2\.  \*\*Upload Notebook\*\*: Upload the `FishImageClassification.ipynb` file.
 
 3\.  \*\*Set Runtime\*\*: Go to `Runtime > Change runtime type` and select \*\*GPU\*\* as the hardware accelerator. This is crucial for training speed.
 
@@ -447,4 +447,5 @@ Once the setup is complete, run the following command in your terminal:
 
 
 python -m streamlit run fishapp.py
+
 
